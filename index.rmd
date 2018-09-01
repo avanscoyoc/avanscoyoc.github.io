@@ -6,7 +6,7 @@
   
 <link rel="stylesheet" href="style.css" type="text/css">
 
-<img src="images/IMG_1130.jpg" style="width:380px; border:10px solid; margin-right: 20px; padding: 10px" align="left">  
+<img src="images/IMG_1130.jpg" style="width:380px; border:10px solid; margin-right: 20px;" align="left">  
   
 My work is driven by questions at the nexus of development and conservation. I am fascinated by the influence of large predators on ecosystem processes, and broadly interested in how land use change and trophic disturbance impact wildlife movement and behavior. What are the evolutionary consequences for migratory species in human-dominated and fragmented landscapes? How do animals move between protected areas? How can we improve ecosystem health and reduce human-wildlife conflict within altered landscapes? 
   
