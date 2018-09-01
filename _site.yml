@@ -2,7 +2,7 @@ name: "avanscoyoc"
 output_dir: "."
 navbar: 
   title: "Amy Van Scoyoc"
-  right: 
+  left: 
     - text: "Home"
       icon: fa-home
       href: index.html
