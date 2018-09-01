@@ -3,7 +3,7 @@
 ```{r echo = FALSE}
 library(magick)
 washington <- image_read("images/washington.png")
-image_annotate(washington, "Community Ecology & Conservation", size = 35, color = "white", font = "Garamond")
+image_annotate(washington, "Community Ecology & Conservation", size = 70, color = "white", font = "Garamond")
 ```
 
 -----------------------------
