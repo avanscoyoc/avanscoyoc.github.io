@@ -4,8 +4,10 @@ title: "Research"
 
 ![](images/fish_rest.png)
 
-Research under construction...more soon!
-
+Research under construction...more soon!  
+  
+  
+  
 ------------------------------
-![](images/nsf.png) ![](images/graddiv.png) ![](images/espm.png)
+![](images/nsf.png)                     ![](images/graddiv.png)                     ![](images/espm.png)
 ------------------------------

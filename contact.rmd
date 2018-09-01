@@ -1,14 +1,16 @@
 ---
-title: "Contact"
 ---
 ![](images/pano.jpg)
-#### Amy Van Scoyoc
-PhD Student | [Brashares Lab](https://nature.berkeley.edu/BrasharesGroup/)
-Environmental Science, Policy, & Managmeent
-University of California, Berkeley
+-------------------------------
 
-**Email**: avanscoyoc@berkeley.edu
-**Twitter**: @avscoy
-**Blog**: https://bioecoetc.wordpress.com/about
-**LinkedIn**: https://www.linkedin.com/in/amyvanscoyoc
-**Mailing Address**: 130 Mulford Hall #3114 / University of California, Berkeley, CA 94720-3114
+#### Amy Van Scoyoc
+
+PhD Student | [Brashares Lab](https://nature.berkeley.edu/BrasharesGroup/)  
+Environmental Science, Policy, & Management  
+University of California, Berkeley  
+  
+**Email**: avanscoyoc@berkeley.edu  
+**Twitter**: @avscoy  
+**Blog**: https://bioecoetc.wordpress.com/about  
+**LinkedIn**: https://www.linkedin.com/in/amyvanscoyoc  
+**Mailing Address**: 130 Mulford Hall #3114 / University of California, Berkeley, CA 94720-3114  
