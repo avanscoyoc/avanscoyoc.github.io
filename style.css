@@ -1,7 +1,5 @@
 img[src="images/IMG_1130.jpg"] {
-  width: 200px;
-  left: 0;
-  display: inline-block;
-  margin: 0 auto;
-  padding: 5px;
+  width: 350px;
+  float: left;
+  position: relative; 
 }
