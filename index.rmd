@@ -1,6 +1,6 @@
 ---
 ---
-![](images/washington.png)
+<img src="images/washington.jpg" style="width:100%">
 
 -----------------------------
   

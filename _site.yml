@@ -5,7 +5,7 @@ navbar:
   left: 
     - text: "Home"
       href: index.html
-    - text: "Research"
+    - text: "<img src = \"images/graph.png\" style=\"width: 30px;\" /> Research"
       href: research.html
     - text: "CV"
       href: cv.html
