@@ -2,8 +2,7 @@
 title: "Research"
 ---
 
-## Research Projects
+![](images/fish_rest.png)
 
-- Land-use Change
-- Animal Behavior
-- etc.
+Research under construction...more soon!
+
