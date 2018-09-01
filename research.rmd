@@ -2,12 +2,10 @@
 title: "Research"
 ---
 
-![](images/fish_rest.png)
+Page under construction...more soon!  
 
-Research under construction...more soon!  
-  
-  
+![](images/fish_rest.png)
   
 ------------------------------
-![](images/nsf.jpg)                      ![](images/espm.png)
+![https://www.nsf.gov/](images/nsf.jpg) ![https://ourenvironment.berkeley.edu/](images/espm.png)
 ------------------------------
