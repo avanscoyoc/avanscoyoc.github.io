@@ -1,7 +1,7 @@
 img[src="images/IMG_1130.jpg"] {
-  width: 400px;
+  width: 200px;
   left: 0;
-  display: block;
+  display: inline-block;
   margin: 0 auto;
   padding: 5px;
 }
