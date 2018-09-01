@@ -177,6 +177,9 @@ $(document).ready(function () {
     </div>
     <div id="navbar" class="navbar-collapse collapse">
       <ul class="nav navbar-nav">
+        
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
         <li>
   <a href="index.html">
     <span class="fa fa-home"></span>
@@ -206,9 +209,6 @@ $(document).ready(function () {
   </a>
 </li>
       </ul>
-      <ul class="nav navbar-nav navbar-right">
-        
-      </ul>
     </div><!--/.nav-collapse -->
   </div><!--/.container -->
 </div><!--/.navbar -->
@@ -221,10 +221,10 @@ $(document).ready(function () {
 </div>
 
 
-<div class="figure">
-<img src="images/washington.png" />
-
-</div>
+<pre class="r"><code>library(magick)
+washington &lt;- image_read(&quot;images/washington.png&quot;)
+image_annotate(washington, &quot;Community Ecology &amp; Conservation&quot;, size = 35, color = &quot;white&quot;, font = &quot;Garamond&quot;)</code></pre>
+<p><img src="index_files/figure-html/unnamed-chunk-1-1.png" width="540" /></p>
 <hr />
 <p><link rel="stylesheet" href="style.css" type="text/css"></p>
 <p><img src="images/IMG_1130.jpg" style="width:380px; border:10px solid; margin-right: 20px;" align="left"></p>
