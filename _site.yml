@@ -4,12 +4,16 @@ navbar:
   title: "Amy Van Scoyoc"
   left: 
     - text: "Home"
+      icon: fa-home
       href: index.html
-    - text: "<img src = \"images/graph.png\" style=\"width: 30px;\" /> Research"
+    - text: "Research"
+      icon: fa-chart-bar
       href: research.html
     - text: "CV"
+      icon: fa-file
       href: cv.html
     - text: "Contact"
+      icon: fa-paper-plane
       href: contact.html
 output: 
   html_document: 
