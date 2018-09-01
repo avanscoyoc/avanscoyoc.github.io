@@ -2,7 +2,7 @@
 ---
 ![](images/washington2.png)
 
-----_------------------------
+-----------------------------
   
 <link rel="stylesheet" href="style.css" type="text/css">
 
